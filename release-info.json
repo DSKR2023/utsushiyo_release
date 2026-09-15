@@ -1,9 +1,10 @@
 ﻿{
-    "version":  "0.5.6",
-    "generatedAt":  "2026-09-16 01:04:02",
+    "version":  "0.5.7",
+    "generatedAt":  "2026-09-16 01:25:51",
     "sourceRepository":  "https://github.com/DSKR2023/utsushiyo",
-    "sourceCommit":  "d9e441ce",
+    "sourceCommit":  "b6ec1c12",
     "commits":  [
+                    "- Release v0.5.7 (rebuild from unified source)",
                     "- Merge origin/master into codex/20260514-upload-safe (keep v0.5.6 tree)",
                     "- Release v0.5.6: fix multi-stream audio, comments, auto-stop, output rendering, browser window load",
                     "- wait for confirmed livestream state",
@@ -22,7 +23,6 @@
                     "- update 2026-08-22 04:44:45",
                     "- improve: GitHubアカウントが既にアクティブな場合はgh auth switchをスキップするように変更",
                     "- restore: AIVtuber連携用のsync/watchスクリプトを復元 (origin/masterのマージで誤って削除されていたため)",
-                    "- Merge origin/master into codex/20260514-upload-safe (CRLF-only conflict in main.rs resolved by keeping identical content)",
-                    "- update 2026-08-22 03:00:38"
+                    "- Merge origin/master into codex/20260514-upload-safe (CRLF-only conflict in main.rs resolved by keeping identical content)"
                 ]
 }

@@ -1,11 +1,12 @@
 ﻿# UTSUSHIYO Release Info
 
-- Version: 0.5.6
-- Generated: 2026-09-16 01:04:02
-- Source commit: d9e441ce
+- Version: 0.5.7
+- Generated: 2026-09-16 01:25:51
+- Source commit: b6ec1c12
 
 ## Recent changes
 
+- Release v0.5.7 (rebuild from unified source)
 - Merge origin/master into codex/20260514-upload-safe (keep v0.5.6 tree)
 - Release v0.5.6: fix multi-stream audio, comments, auto-stop, output rendering, browser window load
 - wait for confirmed livestream state
@@ -25,4 +26,3 @@
 - improve: GitHubアカウントが既にアクティブな場合はgh auth switchをスキップするように変更
 - restore: AIVtuber連携用のsync/watchスクリプトを復元 (origin/masterのマージで誤って削除されていたため)
 - Merge origin/master into codex/20260514-upload-safe (CRLF-only conflict in main.rs resolved by keeping identical content)
-- update 2026-08-22 03:00:38
