@@ -1,28 +1,28 @@
 ﻿# UTSUSHIYO Release Info
 
-- Version: 0.1.0
-- Generated: 2026-05-26 11:43:05
-- Source commit: 2f15eaf
+- Version: 0.5.6
+- Generated: 2026-09-16 01:04:02
+- Source commit: d9e441ce
 
 ## Recent changes
 
-- update 2026/05/26 07:46
-- update 2026/05/26 01:02
-- update 2026/05/25 01:17
-- update 2026/05/24 23:18
-- update 2026/05/24 18:18
-- update 2026/05/24 18:14
-- あ
-- Restore UI localization coverage and virtual camera flow
-- a　
-- あ
-- あ
-- Add subtitle auto mode and test controls
-- Add Discord user auth and shortcut controls
-- Add element sizing controls and release gating
-- Hide dev tools in release builds
-- Improve canvas mode and multi viewport control
-- Harden discord visibility and multi editing
-- Use native window for multi stream sub view
-- Improve multi stream sub window controls
-- あ
+- Merge origin/master into codex/20260514-upload-safe (keep v0.5.6 tree)
+- Release v0.5.6: fix multi-stream audio, comments, auto-stop, output rendering, browser window load
+- wait for confirmed livestream state
+- Release v0.5.3 fixes
+- Fix mixer audio target routing
+- Add RTMP reconnect recovery
+- Prepare release v0.5.0
+- Google連携の自動復帰と、別プロジェクトのTauriアプリとの取り違えを修正
+- Fix per-URL web audio routing
+- Fix web preview rate and isolated audio routing
+- Fix browser interaction and mixer layout
+- Fix mixer scaling and browser capture rendering
+- Fix multi capture, account UI, and external comments
+- update 2026-08-23 17:01:00
+- update 2026-08-23 05:13:33
+- update 2026-08-22 04:44:45
+- improve: GitHubアカウントが既にアクティブな場合はgh auth switchをスキップするように変更
+- restore: AIVtuber連携用のsync/watchスクリプトを復元 (origin/masterのマージで誤って削除されていたため)
+- Merge origin/master into codex/20260514-upload-safe (CRLF-only conflict in main.rs resolved by keeping identical content)
+- update 2026-08-22 03:00:38
